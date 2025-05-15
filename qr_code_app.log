@@ -1,0 +1,19 @@
+2025-05-07 14:05:56,068 - INFO - Application initialized
+2025-05-07 14:06:00,958 - INFO - Theme changed to darkly
+2025-05-07 14:06:01,701 - INFO - Theme changed to litera
+2025-05-07 14:06:22,472 - DEBUG - No data found in QR code at D:/QRC/frame.png
+2025-05-07 14:06:26,612 - ERROR - Failed to read QR code: D:/QRC/frame.png
+2025-05-07 14:10:32,943 - INFO - Application initialized
+2025-05-07 14:10:41,220 - DEBUG - No data found in QR code at D:/QRC/frame.png
+2025-05-07 14:10:44,760 - ERROR - Failed to read QR code: D:/QRC/frame.png
+2025-05-07 14:10:52,412 - DEBUG - Scan logged - Filename: secure_qr.png, Format: Secure, Data: as|SIG:ep0ZDuvxbZA5Zg3P4MWfy5DY/9Xr8h0PtcSRs+F7BHqtGiisrKbHM9PXJFqPWDGYl5XWeTLtuJjE3I/MZtcdKyQlie1TgCvWlFhl2TjI1OUU4UG0E/pB/hqtMGgid5IN3pN3aVIOCGt9ALnzUPQivRwbELCUn9HhsZNfSDhc1i80rqEl46GCIpCqeaTeElPTPe62q/NG4uw2srQk2O6VMzI+Oy91+SsoTzxPhOztOAxL64qMm7tBqMKd0K/WC4eaC30iv2TFyde2vo4jBjMWBcm/0UqHSpUpCfhYY4JMDgdFtjpqYucWSXWnipGI5eBI1rPqVvxUavrrPZ5E3PhECw==, URL: None
+2025-05-07 14:10:52,412 - INFO - Secure QR code generated: secure_qr.png
+2025-05-07 14:10:52,412 - DEBUG - STREAM b'IHDR' 16 13
+2025-05-07 14:10:52,412 - DEBUG - STREAM b'IDAT' 41 5998
+2025-05-07 14:10:52,412 - DEBUG - Image displayed: secure_qr.png
+2025-05-07 14:10:54,481 - INFO - Single QR code generated: secure_qr.png
+2025-05-07 14:11:29,787 - INFO - QR code saved to D:/QRC/S.png
+2025-05-07 14:11:40,281 - INFO - Phishing report generated for secure_qr.png
+2025-05-07 14:11:45,515 - INFO - Hash copied to clipboard
+2025-05-07 14:20:44,689 - INFO - User created: admin, Role: admin
+2025-05-07 14:20:44,689 - INFO - Default admin user created

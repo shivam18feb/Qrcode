@@ -1,0 +1,5 @@
+Suspicious QR Code Report:
+Filename: secure_qr.png
+Data: as
+Hash: 63dda65aa36c08a5ea3a993cf90fe3fec61f9a8bf46cb93f46b53eb38249cde0
+--------------------------------------------------
